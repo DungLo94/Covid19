@@ -10,7 +10,7 @@ Tải bản mới nhất trên trang web python.org
 
 Bước 1: Mở Command Prompt 
 
-Bước 2: Chạy dòng lệnh sau để mở công cụ jupyter notebook:
+Bước 2: Chạy dòng lệnh sau để mở công cụ jupyter notebook
 ```bash
 jupyter notebook
 ```
