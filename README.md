@@ -1,5 +1,3 @@
-# Covid19
- Analysis of the situation of covid-19 in the world
 # Các ứng dụng cần có
 
 ## Python
